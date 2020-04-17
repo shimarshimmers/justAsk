@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437043845403",
+    "firebase_url": "https://justask-d627a.firebaseio.com",
+    "project_id": "justask-d627a",
+    "storage_bucket": "justask-d627a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437043845403:android:a9b1533f96f3ace33bdbbe",
+        "android_client_info": {
+          "package_name": "gupta.yohansh.justask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437043845403-nc0a2qgfn14sommor2b2k0t6ch8ppbs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gupta.yohansh.justask",
+            "certificate_hash": "79868fdd4172f65af0fd062a6716f2fee03e4a53"
+          }
+        },
+        {
+          "client_id": "437043845403-ol7shl6letni2ihfpnmks71uj8nc97ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQx4FtC-xC-GMi8exw0GO0cAcJ-ElYv6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437043845403-ol7shl6letni2ihfpnmks71uj8nc97ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
