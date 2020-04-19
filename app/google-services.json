@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "437043845403-rahlm2mr5odjkl1hrioeq53eorvj64b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gupta.yohansh.justask",
+            "certificate_hash": "0bbdf1774f763678b6a512092b37bdc6299ec142"
+          }
+        },
+        {
           "client_id": "437043845403-nc0a2qgfn14sommor2b2k0t6ch8ppbs2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

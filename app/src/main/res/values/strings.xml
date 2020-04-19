@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">JustAsk</string>
+    <string-array name="languages">
+        <item>Python</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+        <item>C</item>
+        <item>Ruby</item>
+        <item>Any other</item>
+    </string-array>
 </resources>
