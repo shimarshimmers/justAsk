@@ -1,7 +1,7 @@
 # **justask**
 
 
-*justask* is an android based application which aims at helping individuals in Now_Or_Never to ask their
+JustAsk is an android based application which aims at helping individuals in Now_Or_Never to ask their
 code problems anonymously from everyone in the programme, ranging from peers to mentors and Bansal Square.
 It is a mini discussion portal for everyone at Now_Or_Never.
 
